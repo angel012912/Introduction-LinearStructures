@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 11/2021
+Description: Class that implements a simple linked list
+*/
+
 #include "Nodo.hpp"
 using namespace std;
 

@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 11/2021
+Description: Program that makes use of the class ListaSimple
+*/
+
 #include "listaSimple.hpp"
 
 int main(){

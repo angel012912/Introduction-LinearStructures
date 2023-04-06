@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 11/2021
+Description: Class that implements a node for a linked list
+*/
+
 #include <iostream>
 using namespace std;
 

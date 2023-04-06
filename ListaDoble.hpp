@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 11/2021
+Description: Class that implements a double linked list
+*/
+
 #include "NodoTD.hpp"
 #include <iostream>
 

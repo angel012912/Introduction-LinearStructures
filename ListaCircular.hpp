@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 11/2021
+Description: Class that implements a circular linked list
+*/
+
 #include "NodoT.hpp"
 
 template<typename T>

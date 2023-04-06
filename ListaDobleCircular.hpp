@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 11/2021
+Description: Class that implements a double circular linked list
+*/
+
 #include "NodoTD.hpp"
 
 template <typename T>

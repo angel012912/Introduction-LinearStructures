@@ -18,7 +18,7 @@ This activities were part of the subject "Data Structures and Fundamental Algori
 ## Installation
 * Make sure to have installed a C++ enviroment 
 * Download the repository on your local machine
-* Run the command <code>./main</code> on the terminal located at the root path of the project or just open the <code>main.exe</code> file
+* Run the command <code>./mainLS</code> and <code>./mainLD</code> on the terminal located at the root path of the project
 
 ## Screenshots
 <img src="./images/Simple List.png" alt="Simple Linked List Execution" style="float: left; margin: 50px;" width="200"/> <img src="./images/Double List.png" alt="Double Linked List Execution" style="float: left; margin: 50px;" width="200"/>
